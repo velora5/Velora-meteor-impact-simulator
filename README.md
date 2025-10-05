@@ -17,6 +17,7 @@ In order to access the 3D Simulation properly you must:
 						- Open the file
 						
 Instructions for 3D sim file:
+
 			- Open file in blender
 			- Click and hold z on your keyboard and move the mouse to:"Rendered" 
 			- Click on the asteroid 
