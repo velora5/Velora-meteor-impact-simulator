@@ -1,13 +1,12 @@
 # Velora-meteor-impact-simulator
-interactive HTML platform to explore and filter past, present, and predicted future asteroid impacts, seeing where they hit on a live map, how they affect people and what the global costs might be. It’s paired with a realistic 3D physics-based simulation that lets users visualize how asteroids collide with or can be deflected from Earth.
-The folder includes 3 files:
+Velora-meteor-impact-simulator is an interactive HTML platform to explore and filter past, present, and predicted future asteroid impacts, seeing where they hit on a live map, how they affect people and what the global costs might be. It’s paired with a realistic 3D physics-based simulation that lets users visualize how asteroids collide with or can be deflected from Earth.
 
+The folder includes 3 files:
 - An html file which you can open in your browser upon download (the base of the project- usable on any device) {Velora.html}
 - A .txt file which has all the code {Velora-html-code.txt}
 - A video file showcasing the 3D Physics based simulation (if you don't want to download it) {Velora.mp4}
 - A .blend file (the simulation file) {Velora.blend}
 - readme
-
 
 In order to access the html file to its full extent please:
 						- Download the file from GitHub
